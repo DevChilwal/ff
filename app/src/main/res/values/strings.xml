@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">rf</string>
+    <string name="fname">First Name</string>
+    <string name="efname">edit first name</string>
+    <string name="lname">Last Name</string>
+    <string name="elname">edit last name</string>
+    <string name="mob">mobile no</string>
+    <string name="emob">edit mobile no</string>
+    <string name="altmob">alter mob no</string>
+    <string name="ealtmob">edit alternate mobile no</string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="other">Other</string>
+
+
+</resources>
