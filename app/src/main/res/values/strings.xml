@@ -11,6 +11,12 @@
     <string name="m">Male</string>
     <string name="f">Female</string>
     <string name="other">Other</string>
-
+    <string name="gender">Gender</string>
+    <string name="checkBox1_text">Reading</string>
+    <string name="checkBox2_text">Coding</string>
+    <string name="checkBox3_text">Programming</string>
+    <string name="checkBox4_text">Gaming</string>
+    <string name="checkBox5_text">Sport</string>
+    <string name="rg">Radio Group</string>
 
 </resources>
